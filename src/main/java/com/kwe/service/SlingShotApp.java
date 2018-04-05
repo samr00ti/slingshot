@@ -11,6 +11,9 @@ public class SlingShotApp {
 
         System.out.println (slingShot.toString());
 
+        SlingShot slingshot2 = new SlingShot();
+        System.out.println (slingshot2.toString());
+
 
 
     }
