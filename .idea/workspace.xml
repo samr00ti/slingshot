@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85a3bf2c-0788-4423-9f1f-22e744b35123" name="Default" comment="Added submodule">
+    <list default="true" id="85a3bf2c-0788-4423-9f1f-22e744b35123" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common" afterPath="$PROJECT_DIR$/common" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kwe/service/SlingShotApp.class" afterPath="$PROJECT_DIR$/target/classes/com/kwe/service/SlingShotApp.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/java/com/kwe/slingshot/model/SlingShot.java" afterPath="$PROJECT_DIR$/common/src/main/java/com/kwe/slingshot/model/SlingShot.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/kwe/service/SlingShotApp.java" afterPath="$PROJECT_DIR$/src/main/java/com/kwe/service/SlingShotApp.java" />
@@ -30,8 +32,8 @@
       <file leaf-file-name="SlingShotApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kwe/service/SlingShotApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,8 +62,8 @@
       <file leaf-file-name="SlingShot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/src/main/java/com/kwe/slingshot/model/SlingShot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -218,9 +220,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -357,7 +360,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522959420305</updated>
       <workItem from="1522959422049" duration="1234000" />
-      <workItem from="1522960674480" duration="116000" />
+      <workItem from="1522960674480" duration="447000" />
     </task>
     <task id="LOCAL-00001" summary="Added submodule">
       <created>1522960359653</created>
@@ -380,11 +383,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522960456528</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added submodule">
+      <created>1522960796825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522960796825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1350000" />
+    <option name="totallyTimeSpent" value="1681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
@@ -500,16 +510,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/kwe/slingshot/model/SlingShot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kwe/service/SlingShotApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
